@@ -83,6 +83,13 @@ lab: exercice VLAN trunk/access complete
 
 ---
 
+
+## 🔥 Projets les plus actifs
+
+<!-- TOP_REPOS_START -->
+> ⏳ En attente de la première exécution du workflow `update-top-repos`...
+<!-- TOP_REPOS_END -->
+
 ## 🐍 Activité de l'organisation
 
 <div align="center">
