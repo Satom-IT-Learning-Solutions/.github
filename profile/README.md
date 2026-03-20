@@ -76,11 +76,11 @@ C'est ici qu'on centralise tout le travail pratique — labs, projets de cours, 
 
 **Nommer un repo**
 ```
-[nom]-[sujet]
+[sujet]-[nom]
 # Exemples :
-thomas-iot-hackathon
-sarah-vlan-lab
-marc-ctf-writeup
+Powershell_empire-Thomas
+Gns3-Morrad
+Flipper_zero-Kehmi
 ```
 
 **Structurer ses commits**
