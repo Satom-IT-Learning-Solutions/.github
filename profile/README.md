@@ -90,19 +90,19 @@ lab: exercice VLAN trunk/access complete
 ### 🥇 [.github](https://github.com/Satom-IT-Learning-Solutions/.github)
 > Pas de description
 
-![Language](https://img.shields.io/badge/Langage-—-0d47a1?style=flat-square) ![Stars](https://img.shields.io/badge/⭐_Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/🍴_Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026-03-20-1976d2?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026-03-20-1976d2?style=flat-square)
 
 ### 🥈 [Hackathon-IoT-2026-Equipe01](https://github.com/Satom-IT-Learning-Solutions/Hackathon-IoT-2026-Equipe01)
 > Plateforme de supervision industrielle IoT — Architecture Edge/Fog/Cloud avec Mosquitto, Node-RED, InfluxDB et Grafana. Alertes Telegram/Email en temps réel. Hackathon IoT 2026.
 
-![Language](https://img.shields.io/badge/Langage-JavaScript-0d47a1?style=flat-square) ![Stars](https://img.shields.io/badge/⭐_Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/🍴_Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026-03-20-1976d2?style=flat-square)
+![Language](https://img.shields.io/badge/Langage-JavaScript-0d47a1?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026-03-20-1976d2?style=flat-square)
 
 ### 🥉 [HelpDesk-GIT](https://github.com/Satom-IT-Learning-Solutions/HelpDesk-GIT)
 > Pas de description
 
-![Language](https://img.shields.io/badge/Langage-TypeScript-0d47a1?style=flat-square) ![Stars](https://img.shields.io/badge/⭐_Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/🍴_Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026-03-20-1976d2?style=flat-square)
+![Language](https://img.shields.io/badge/Langage-TypeScript-0d47a1?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026-03-20-1976d2?style=flat-square)
 
-<sub>Mis à jour automatiquement le 20/03/2026 à 13:57 UTC</sub>
+<sub>Mis à jour automatiquement le 20/03/2026 à 14:01 UTC</sub>
 <!-- TOP_REPOS_END -->
 
 ## 🐍 Activité de l'organisation
