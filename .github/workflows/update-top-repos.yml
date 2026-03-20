@@ -66,7 +66,7 @@ jobs:
                 badges.append(f"![Language](https://img.shields.io/badge/Langage-{lang_clean}-0d47a1?style=flat-square)")
             badges.append(f"![Stars](https://img.shields.io/badge/Stars-{stars}-ffd700?style=flat-square)")
             badges.append(f"![Forks](https://img.shields.io/badge/Forks-{forks}-1565c0?style=flat-square)")
-            badges.append(f"![Updated](https://img.shields.io/badge/Dernier_push-{pushed}-1976d2?style=flat-square)")
+            badges.append(f"![Updated](https://img.shields.io/badge/Dernier_push-{pushed.replace('-', '.')}-1976d2?style=flat-square)")
             lines.append(" ".join(badges))
             lines.append("")
 
