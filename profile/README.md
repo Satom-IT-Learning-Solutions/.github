@@ -1,20 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1565c0,100:1976d2&height=200&section=header&text=Satom%20IT%20%26%20Learning%20Solutions&fontSize=36&fontColor=ffffff&fontAlignY=42&desc=Geneva%20Institute%20of%20Technology%20%E2%80%94%20Espace%20de%20travail&descAlignY=63&descSize=16&descColor=90caf9&animation=fadeIn)
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=180&section=header&text=Satom%20IT%20Learning%20Solutions&fontSize=30&fontColor=f0f9ff&fontAlignY=42&desc=Espace%20de%20travail%20%E2%80%94%20%C3%A9l%C3%A8ves%20%26%20formateurs&descAlignY=63&descSize=15&descColor=7dd3fc&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:bae6fd,100:0ea5e9&height=180&section=header&text=Satom%20IT%20Learning%20Solutions&fontSize=30&fontColor=0c4a6e&fontAlignY=42&desc=Espace%20de%20travail%20%E2%80%94%20%C3%A9l%C3%A8ves%20%26%20formateurs&descAlignY=63&descSize=15&descColor=0369a1&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=180&section=header&text=Satom%20IT%20Learning%20Solutions&fontSize=30&fontColor=f0f9ff&fontAlignY=42&desc=Espace%20de%20travail%20%E2%80%94%20%C3%A9l%C3%A8ves%20%26%20formateurs&descAlignY=63&descSize=15&descColor=7dd3fc&animation=fadeIn" width="100%" alt="banner">
-</picture>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=1976D2&center=true&vCenter=true&width=560&lines=%F0%9F%91%8B+Bienvenue+sur+le+GitHub+de+l%27%C3%A9cole;%F0%9F%93%81+Cours+%7C+Labs+%7C+Projets+%7C+Ressources;%F0%9F%A4%9D+Collaboration+%C3%A9l%C3%A8ves+%26+formateurs;%F0%9F%9A%80+Push%2C+commit%2C+apprends%2C+it%C3%A8re)](https://git.io/typing-svg)
 
-<a href="https://genevainstituteoftechnology.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=0EA5E9&center=true&vCenter=true&width=560&lines=👋+Bienvenue+sur+le+GitHub+de+l'école;📁+Cours+%7C+Labs+%7C+Projets+%7C+Ressources;🤝+Collaboration+élèves+%26+formateurs;🚀+Push%2C+commit%2C+apprends%2C+itère" alt="typing" />
-</a>
-
-<br/><br/>
+<br/>
 
 [![GitHub Org](https://img.shields.io/badge/Organisation-Satom--IT--Learning-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satom-IT-Learning-Solutions)
-[![Members](https://img.shields.io/badge/Membres-Élèves_%26_Formateurs-6366f1?style=for-the-badge&logoColor=white)](#)
-[![School](https://img.shields.io/badge/GIT-Geneva_Institute_of_Technology-0ea5e9?style=for-the-badge)](https://genevainstituteoftechnology.com)
+[![Members](https://img.shields.io/badge/Membres-Élèves_%26_Formateurs-1565c0?style=for-the-badge&logoColor=white)](#)
+[![School](https://img.shields.io/badge/GIT-Geneva_Institute_of_Technology-1976d2?style=for-the-badge)](https://genevainstituteoftechnology.com)
 
 </div>
 
@@ -93,7 +87,6 @@ lab: exercice VLAN trunk/access complété
 
 ---
 
-
 ## 🐍 Activité de l'organisation
 
 <div align="center">
@@ -101,21 +94,17 @@ lab: exercice VLAN trunk/access complété
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satom-IT-Learning-Solutions/Satom-IT-Learning-Solutions/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Satom-IT-Learning-Solutions/Satom-IT-Learning-Solutions/output/github-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/Satom-IT-Learning-Solutions/Satom-IT-Learning-Solutions/output/github-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Satom-IT-Learning-Solutions/Satom-IT-Learning-Solutions/output/github-snake.svg">
 </picture>
+
+> ⚠️ La snake animation s'active après avoir lancé le workflow GitHub Actions une première fois — voir `.github/workflows/snake.yml`
 
 </div>
 
 ---
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1976d2,50:1565c0,100:0f172a&height=120&section=footer)
+
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:bae6fd&height=100&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer" width="100%" alt="footer">
-</picture>
-
 <sub>Geneva Institute of Technology · <a href="https://satom.ch">Satom IT & Learning Solutions</a> · Genève 🇨🇭</sub>
-
 </div>
