@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1565c0,100:1976d2&height=200&section=header&text=Geneva%20Institute%20of%20Technology&fontSize=35&fontColor=ffffff&fontAlignY=42&desc=Espace%20de%20travail&descAlignY=63&descSize=18&descColor=90caf9&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1565c0,100:1976d2&height=200&section=header&text=Geneva%20Institute%20of%20Technology&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Espace%20de%20travail&descAlignY=63&descSize=18&descColor=90caf9&animation=fadeIn)
 
 <div align="center">
 
