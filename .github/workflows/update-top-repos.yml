@@ -1,4 +1,4 @@
-name: 🔥 Update Top Repos
+name: 🔥 Update Top Repos and Org Stats
 
 on:
   schedule:
@@ -14,7 +14,7 @@ jobs:
         with:
           token: ${{ secrets.SNAKE_TOKEN }}
 
-      - name: Fetch top repos and update README
+      - name: Fetch top repos and org stats, update README
         env:
           GH_TOKEN: ${{ secrets.SNAKE_TOKEN }}
           ORG: Satom-IT-Learning-Solutions
@@ -24,72 +24,103 @@ jobs:
           import json
           import os
           import re
-          from datetime import datetime, timezone
+          from datetime import datetime, timezone, timedelta
 
           token = os.environ["GH_TOKEN"]
           org   = os.environ["ORG"]
 
-          # Appel API GitHub — tous les repos de l'org
-          req = urllib.request.Request(
-              f"https://api.github.com/orgs/{org}/repos?per_page=100&sort=pushed&direction=desc",
-              headers={
-                  "Authorization": f"Bearer {token}",
-                  "Accept": "application/vnd.github+json",
-                  "X-GitHub-Api-Version": "2022-11-28"
-              }
-          )
-          with urllib.request.urlopen(req) as r:
-              repos = json.loads(r.read())
+          def gh(url):
+              req = urllib.request.Request(
+                  url,
+                  headers={
+                      "Authorization": f"Bearer {token}",
+                      "Accept": "application/vnd.github+json",
+                      "X-GitHub-Api-Version": "2022-11-28"
+                  }
+              )
+              with urllib.request.urlopen(req) as r:
+                  return json.loads(r.read())
 
-          # Filtrer les forks et repos vides, trier par pushed_at
-          repos = [r for r in repos if not r["fork"] and r["pushed_at"]]
-          repos = sorted(repos, key=lambda r: r["pushed_at"], reverse=True)[:3]
+          # --- Infos org ---
+          org_data    = gh(f"https://api.github.com/orgs/{org}")
+          members     = gh(f"https://api.github.com/orgs/{org}/members?per_page=100")
+          all_repos   = gh(f"https://api.github.com/orgs/{org}/repos?per_page=100&sort=pushed")
+          repos_count = len([r for r in all_repos if not r["fork"]])
+          members_count = len(members)
+          total_stars = sum(r["stargazers_count"] for r in all_repos)
 
-          # Générer le bloc Markdown
+          # --- Top 3 repos par commits des 7 derniers jours ---
+          since = (datetime.now(timezone.utc) - timedelta(days=7)).strftime("%Y-%m-%dT%H:%M:%SZ")
+          repo_commits = []
+          for repo in all_repos:
+              if repo["fork"]:
+                  continue
+              try:
+                  commits = gh(f"https://api.github.com/repos/{org}/{repo['name']}/commits?since={since}&per_page=100")
+                  repo_commits.append((len(commits), repo))
+              except Exception:
+                  repo_commits.append((0, repo))
+
+          repo_commits.sort(key=lambda x: x[0], reverse=True)
+          top3 = repo_commits[:3]
+
+          # --- Bloc TOP REPOS ---
           lines = []
           medals = ["🥇", "🥈", "🥉"]
-          for i, repo in enumerate(repos):
-            name        = repo["name"]
-            description = repo["description"] or "Pas de description"
-            stars       = repo["stargazers_count"]
-            forks       = repo["forks_count"]
-            language    = repo["language"] or "—"
-            pushed      = repo["pushed_at"][:10]
-            url         = repo["html_url"]
+          for i, (commit_count, repo) in enumerate(top3):
+              name        = repo["name"]
+              description = repo["description"] or "Pas de description"
+              stars       = repo["stargazers_count"]
+              forks       = repo["forks_count"]
+              pushed      = repo["pushed_at"][:10].replace("-", ".")
+              url         = repo["html_url"]
 
-            lines.append(f"### {medals[i]} [{name}]({url})")
-            lines.append(f"> {description}")
-            lines.append(f"")
-            badges = []
-            if repo["language"]:
-                lang_clean = repo["language"].replace(" ", "_").replace("-", "--")
-                badges.append(f"![Language](https://img.shields.io/badge/Langage-{lang_clean}-0d47a1?style=flat-square)")
-            badges.append(f"![Stars](https://img.shields.io/badge/Stars-{stars}-ffd700?style=flat-square)")
-            badges.append(f"![Forks](https://img.shields.io/badge/Forks-{forks}-1565c0?style=flat-square)")
-            badges.append(f"![Updated](https://img.shields.io/badge/Dernier_push-{pushed.replace('-', '.')}-1976d2?style=flat-square)")
-            lines.append(" ".join(badges))
-            lines.append("")
+              lines.append(f"### {medals[i]} [{name}]({url})")
+              lines.append(f"> {description}")
+              lines.append("")
+              badges = []
+              if repo["language"]:
+                  lang_clean = repo["language"].replace(" ", "_").replace("-", "--")
+                  badges.append(f"![Language](https://img.shields.io/badge/Langage-{lang_clean}-0d47a1?style=flat-square)")
+              badges.append(f"![Commits](https://img.shields.io/badge/Commits_7j-{commit_count}-1976d2?style=flat-square)")
+              badges.append(f"![Stars](https://img.shields.io/badge/Stars-{stars}-ffd700?style=flat-square)")
+              badges.append(f"![Forks](https://img.shields.io/badge/Forks-{forks}-1565c0?style=flat-square)")
+              badges.append(f"![Updated](https://img.shields.io/badge/Dernier_push-{pushed}-1976d2?style=flat-square)")
+              lines.append(" ".join(badges))
+              lines.append("")
 
           now = datetime.now(timezone.utc).strftime("%d/%m/%Y à %H:%M UTC")
-          lines.append(f"<sub>Mis à jour automatiquement le {now}</sub>")
+          lines.append(f"<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le {now}</sub>")
+          top_repos_block = "\n".join(lines)
 
-          new_block = "\n".join(lines)
+          # --- Bloc ORG STATS ---
+          stat_lines = []
+          stat_lines.append(f"![Repos](https://img.shields.io/badge/Repos-{repos_count}-0d47a1?style=for-the-badge&logo=github&logoColor=white)")
+          stat_lines.append(f"![Members](https://img.shields.io/badge/Membres-{members_count}-1565c0?style=for-the-badge&logo=github&logoColor=white)")
+          stat_lines.append(f"![Stars](https://img.shields.io/badge/Stars-{total_stars}-ffd700?style=for-the-badge&logoColor=white)")
+          stat_lines.append("")
+          stat_lines.append(f"<sub>Stats mises à jour le {now}</sub>")
+          stats_block = "\n".join(stat_lines)
 
-          # Réécrire la section dans le README
+          # --- Réécrire le README ---
           with open("profile/README.md", "r") as f:
               readme = f.read()
 
           readme = re.sub(
               r"<!-- TOP_REPOS_START -->.*?<!-- TOP_REPOS_END -->",
-              f"<!-- TOP_REPOS_START -->\n{new_block}\n<!-- TOP_REPOS_END -->",
-              readme,
-              flags=re.DOTALL
+              f"<!-- TOP_REPOS_START -->\n{top_repos_block}\n<!-- TOP_REPOS_END -->",
+              readme, flags=re.DOTALL
+          )
+          readme = re.sub(
+              r"<!-- ORG_STATS_START -->.*?<!-- ORG_STATS_END -->",
+              f"<!-- ORG_STATS_START -->\n{stats_block}\n<!-- ORG_STATS_END -->",
+              readme, flags=re.DOTALL
           )
 
           with open("profile/README.md", "w") as f:
               f.write(readme)
 
-          print("README mis à jour avec les 3 repos les plus actifs")
+          print(f"OK — top 3 repos + stats org mis à jour")
           PYEOF
 
       - name: Commit and push
@@ -97,5 +128,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/README.md
-          git diff --cached --quiet || git commit -m "chore: update top active repos [skip ci]"
+          git diff --cached --quiet || git commit -m "chore: update top repos + org stats [skip ci]"
           git push

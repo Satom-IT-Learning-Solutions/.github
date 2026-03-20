@@ -10,6 +10,17 @@
 
 </div>
 
+
+## 📊 Stats de l'organisation
+
+<div align="center">
+
+<!-- ORG_STATS_START -->
+> ⏳ En attente de la première exécution du workflow...
+<!-- ORG_STATS_END -->
+
+</div>
+
 ---
 
 ## 📌 C'est quoi cet espace ?
@@ -87,22 +98,7 @@ lab: exercice VLAN trunk/access complete
 ## 🔥 Projets les plus actifs
 
 <!-- TOP_REPOS_START -->
-### 🥇 [.github](https://github.com/Satom-IT-Learning-Solutions/.github)
-> Pas de description
-
-![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.03.20-1976d2?style=flat-square)
-
-### 🥈 [Hackathon-IoT-2026-Equipe01](https://github.com/Satom-IT-Learning-Solutions/Hackathon-IoT-2026-Equipe01)
-> Plateforme de supervision industrielle IoT — Architecture Edge/Fog/Cloud avec Mosquitto, Node-RED, InfluxDB et Grafana. Alertes Telegram/Email en temps réel. Hackathon IoT 2026.
-
-![Language](https://img.shields.io/badge/Langage-JavaScript-0d47a1?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.03.20-1976d2?style=flat-square)
-
-### 🥉 [HelpDesk-GIT](https://github.com/Satom-IT-Learning-Solutions/HelpDesk-GIT)
-> Pas de description
-
-![Language](https://img.shields.io/badge/Langage-TypeScript-0d47a1?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.03.20-1976d2?style=flat-square)
-
-<sub>Mis à jour automatiquement le 20/03/2026 à 14:03 UTC</sub>
+> ⏳ En attente de la première exécution du workflow `update-top-repos`...
 <!-- TOP_REPOS_END -->
 
 ## 🐍 Activité de l'organisation
@@ -116,6 +112,37 @@ lab: exercice VLAN trunk/access complete
 </picture>
 
 </div>
+
+---
+
+## 🤝 Contribuer — guide rapide pour les élèves
+
+Nouveau sur Git ou dans l'org ? Voilà comment bosser proprement :
+
+**1. Forker ou cloner un repo**
+```bash
+git clone https://github.com/Satom-IT-Learning-Solutions/[nom-du-repo]
+cd [nom-du-repo]
+```
+
+**2. Créer une branche avant de toucher au code**
+```bash
+git checkout -b feature/ma-fonctionnalite
+```
+
+**3. Commiter avec un message clair**
+```bash
+git add .
+git commit -m "feat: ajout de la config Docker"
+```
+
+**4. Pusher et ouvrir une Pull Request**
+```bash
+git push origin feature/ma-fonctionnalite
+```
+Ensuite sur GitHub → **Compare & pull request** → décris ce que tu as fait → soumet.
+
+> 💡 En cas de doute, demande à ton formateur avant de pusher sur `main` directement.
 
 ---
 
