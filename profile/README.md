@@ -18,9 +18,9 @@
 <!-- ORG_STATS_START -->
 ![Repos](https://img.shields.io/badge/Repos-11-0d47a1?style=for-the-badge&logo=github&logoColor=white)
 ![Members](https://img.shields.io/badge/Membres-14-1565c0?style=for-the-badge&logo=github&logoColor=white)
-![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=for-the-badge&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars-2-ffd700?style=for-the-badge&logoColor=white)
 
-<sub>Stats mises à jour le 24/03/2026 à 00:15 UTC</sub>
+<sub>Stats mises à jour le 24/03/2026 à 12:14 UTC</sub>
 <!-- ORG_STATS_END -->
 
 </div>
@@ -105,19 +105,19 @@ lab: exercice VLAN trunk/access complete
 ### 🥇 [.github](https://github.com/Satom-IT-Learning-Solutions/.github)
 > Pas de description
 
-![Commits](https://img.shields.io/badge/Commits_7j-32-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.03.23-1976d2?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits_7j-33-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.03.24-1976d2?style=flat-square)
 
-### 🥈 [Hackathon-IoT-2026-Equipe01](https://github.com/Satom-IT-Learning-Solutions/Hackathon-IoT-2026-Equipe01)
+### 🥈 [OS-ISO](https://github.com/Satom-IT-Learning-Solutions/OS-ISO)
+> Librairie OS
+
+![Language](https://img.shields.io/badge/Langage-Python-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-6-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.03.24-1976d2?style=flat-square)
+
+### 🥉 [Hackathon-IoT-2026-Equipe01](https://github.com/Satom-IT-Learning-Solutions/Hackathon-IoT-2026-Equipe01)
 > Plateforme de supervision industrielle IoT — Architecture Edge/Fog/Cloud avec Mosquitto, Node-RED, InfluxDB et Grafana. Alertes Telegram/Email en temps réel. Hackathon IoT 2026.
 
 ![Language](https://img.shields.io/badge/Langage-JavaScript-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-6-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.03.20-1976d2?style=flat-square)
 
-### 🥉 [OS-ISO](https://github.com/Satom-IT-Learning-Solutions/OS-ISO)
-> Librairie OS
-
-![Language](https://img.shields.io/badge/Langage-Python-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-5-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.03.23-1976d2?style=flat-square)
-
-<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 24/03/2026 à 00:15 UTC</sub>
+<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 24/03/2026 à 12:14 UTC</sub>
 <!-- TOP_REPOS_END -->
 
 ## 🐍 Activité de l'organisation
