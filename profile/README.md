@@ -20,7 +20,7 @@
 ![Members](https://img.shields.io/badge/Membres-21-1565c0?style=for-the-badge&logo=github&logoColor=white)
 ![Stars](https://img.shields.io/badge/Stars-2-ffd700?style=for-the-badge&logoColor=white)
 
-<sub>Stats mises à jour le 13/05/2026 à 12:41 UTC</sub>
+<sub>Stats mises à jour le 14/05/2026 à 00:33 UTC</sub>
 <!-- ORG_STATS_END -->
 
 </div>
@@ -105,7 +105,7 @@ lab: exercice VLAN trunk/access complete
 ### 🥇 [GIT-Lab-Cloud-AD](https://github.com/Satom-IT-Learning-Solutions/GIT-Lab-Cloud-AD)
 > Pas de description
 
-![Language](https://img.shields.io/badge/Langage-Shell-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-16-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.05.13-1976d2?style=flat-square)
+![Language](https://img.shields.io/badge/Langage-Shell-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-22-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.05.13-1976d2?style=flat-square)
 
 ### 🥈 [.github](https://github.com/Satom-IT-Learning-Solutions/.github)
 > Pas de description
@@ -117,7 +117,7 @@ lab: exercice VLAN trunk/access complete
 
 ![Language](https://img.shields.io/badge/Langage-HCL-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-6-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.05.13-1976d2?style=flat-square)
 
-<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 13/05/2026 à 12:41 UTC</sub>
+<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 14/05/2026 à 00:33 UTC</sub>
 <!-- TOP_REPOS_END -->
 
 ## 🐍 Activité de l'organisation
