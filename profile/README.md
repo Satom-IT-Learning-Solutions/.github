@@ -20,7 +20,7 @@
 ![Members](https://img.shields.io/badge/Membres-30-1565c0?style=for-the-badge&logo=github&logoColor=white)
 ![Stars](https://img.shields.io/badge/Stars-3-ffd700?style=for-the-badge&logoColor=white)
 
-<sub>Stats mises à jour le 23/06/2026 à 12:54 UTC</sub>
+<sub>Stats mises à jour le 24/06/2026 à 00:31 UTC</sub>
 <!-- ORG_STATS_END -->
 
 </div>
@@ -105,7 +105,7 @@ lab: exercice VLAN trunk/access complete
 ### 🥇 [Hachathon_Juin_MAMAT](https://github.com/Satom-IT-Learning-Solutions/Hachathon_Juin_MAMAT)
 > Plateforme de provisionnement automatique de machines virtuelles pour GIT
 
-![Language](https://img.shields.io/badge/Langage-HCL-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-87-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.06.23-1976d2?style=flat-square)
+![Language](https://img.shields.io/badge/Langage-TypeScript-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-86-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.06.23-1976d2?style=flat-square)
 
 ### 🥈 [Cloud-VM-Portal-Alessandro](https://github.com/Satom-IT-Learning-Solutions/Cloud-VM-Portal-Alessandro)
 > Pas de description
@@ -117,7 +117,7 @@ lab: exercice VLAN trunk/access complete
 
 ![Commits](https://img.shields.io/badge/Commits_7j-14-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.06.23-1976d2?style=flat-square)
 
-<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 23/06/2026 à 12:54 UTC</sub>
+<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 24/06/2026 à 00:31 UTC</sub>
 <!-- TOP_REPOS_END -->
 
 ## 🐍 Activité de l'organisation
