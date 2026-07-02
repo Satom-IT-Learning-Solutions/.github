@@ -20,7 +20,7 @@
 ![Members](https://img.shields.io/badge/Membres-38-1565c0?style=for-the-badge&logo=github&logoColor=white)
 ![Stars](https://img.shields.io/badge/Stars-3-ffd700?style=for-the-badge&logoColor=white)
 
-<sub>Stats mises à jour le 01/07/2026 à 12:55 UTC</sub>
+<sub>Stats mises à jour le 02/07/2026 à 00:35 UTC</sub>
 <!-- ORG_STATS_END -->
 
 </div>
@@ -105,19 +105,19 @@ lab: exercice VLAN trunk/access complete
 ### 🥇 [git-lab-cloud-platform](https://github.com/Satom-IT-Learning-Solutions/git-lab-cloud-platform)
 > Plateforme Lab Cloud GIT — Provisionnement automatique de VMs
 
-![Language](https://img.shields.io/badge/Langage-TypeScript-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-71-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.06.30-1976d2?style=flat-square)
+![Language](https://img.shields.io/badge/Langage-TypeScript-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-83-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.07.02-1976d2?style=flat-square)
 
 ### 🥈 [GitNovaV2](https://github.com/Satom-IT-Learning-Solutions/GitNovaV2)
 > Pas de description
 
-![Language](https://img.shields.io/badge/Langage-TypeScript-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-42-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.06.30-1976d2?style=flat-square)
+![Language](https://img.shields.io/badge/Langage-TypeScript-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-39-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.06.30-1976d2?style=flat-square)
 
 ### 🥉 [Hachathon_Juin_MAMAT](https://github.com/Satom-IT-Learning-Solutions/Hachathon_Juin_MAMAT)
 > Plateforme de provisionnement automatique de machines virtuelles pour GIT
 
-![Language](https://img.shields.io/badge/Langage-TypeScript-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-41-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.06.26-1976d2?style=flat-square)
+![Language](https://img.shields.io/badge/Langage-TypeScript-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-38-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.06.26-1976d2?style=flat-square)
 
-<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 01/07/2026 à 12:55 UTC</sub>
+<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 02/07/2026 à 00:35 UTC</sub>
 <!-- TOP_REPOS_END -->
 
 ## 🐍 Activité de l'organisation
