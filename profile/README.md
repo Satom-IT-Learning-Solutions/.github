@@ -16,11 +16,11 @@
 <div align="center">
 
 <!-- ORG_STATS_START -->
-![Repos](https://img.shields.io/badge/Repos-23-0d47a1?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repos-29-0d47a1?style=for-the-badge&logo=github&logoColor=white)
 ![Members](https://img.shields.io/badge/Membres-38-1565c0?style=for-the-badge&logo=github&logoColor=white)
 ![Stars](https://img.shields.io/badge/Stars-4-ffd700?style=for-the-badge&logoColor=white)
 
-<sub>Stats mises à jour le 25/08/2026 à 00:08 UTC</sub>
+<sub>Stats mises à jour le 25/08/2026 à 12:07 UTC</sub>
 <!-- ORG_STATS_END -->
 
 </div>
@@ -102,22 +102,22 @@ lab: exercice VLAN trunk/access complete
 ## 🔥 Projets les plus actifs
 
 <!-- TOP_REPOS_START -->
-### 🥇 [.github](https://github.com/Satom-IT-Learning-Solutions/.github)
-> Pas de description
+### 🥇 [E2](https://github.com/Satom-IT-Learning-Solutions/E2)
+> Dépôt de la classe E2 – projets de l'année
 
-![Commits](https://img.shields.io/badge/Commits_7j-13-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.08.24-1976d2?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits_7j-16-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.08.25-1976d2?style=flat-square)
 
-### 🥈 [OS-ISO](https://github.com/Satom-IT-Learning-Solutions/OS-ISO)
-> Librairie OS
+### 🥈 [E1A](https://github.com/Satom-IT-Learning-Solutions/E1A)
+> Dépôt de la classe E1A – projets de l'année
 
-![Language](https://img.shields.io/badge/Langage-Python-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-0-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.07.12-1976d2?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits_7j-16-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.08.25-1976d2?style=flat-square)
 
-### 🥉 [GitNova3](https://github.com/Satom-IT-Learning-Solutions/GitNova3)
-> Pas de description
+### 🥉 [E1B](https://github.com/Satom-IT-Learning-Solutions/E1B)
+> Dépôt de la classe E1B – projets de l'année
 
-![Language](https://img.shields.io/badge/Langage-Java-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-0-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.07.09-1976d2?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits_7j-15-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.08.25-1976d2?style=flat-square)
 
-<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 25/08/2026 à 00:08 UTC</sub>
+<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 25/08/2026 à 12:07 UTC</sub>
 <!-- TOP_REPOS_END -->
 
 ## 🐍 Activité de l'organisation
