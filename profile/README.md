@@ -20,7 +20,7 @@
 ![Members](https://img.shields.io/badge/Membres-41-1565c0?style=for-the-badge&logo=github&logoColor=white)
 ![Stars](https://img.shields.io/badge/Stars-4-ffd700?style=for-the-badge&logoColor=white)
 
-<sub>Stats mises à jour le 28/08/2026 à 16:03 UTC</sub>
+<sub>Stats mises à jour le 29/08/2026 à 00:14 UTC</sub>
 <!-- ORG_STATS_END -->
 
 </div>
@@ -117,7 +117,7 @@ lab: exercice VLAN trunk/access complete
 
 ![Commits](https://img.shields.io/badge/Commits_7j-15-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.08.25-1976d2?style=flat-square)
 
-<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 28/08/2026 à 16:03 UTC</sub>
+<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 29/08/2026 à 00:14 UTC</sub>
 <!-- TOP_REPOS_END -->
 
 ## 🐍 Activité de l'organisation
