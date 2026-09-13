@@ -20,7 +20,7 @@
 ![Members](https://img.shields.io/badge/Membres-90-1565c0?style=for-the-badge&logo=github&logoColor=white)
 ![Stars](https://img.shields.io/badge/Stars-6-ffd700?style=for-the-badge&logoColor=white)
 
-<sub>Stats mises à jour le 13/09/2026 à 00:18 UTC</sub>
+<sub>Stats mises à jour le 13/09/2026 à 12:07 UTC</sub>
 <!-- ORG_STATS_END -->
 
 </div>
@@ -105,19 +105,19 @@ lab: exercice VLAN trunk/access complete
 ### 🥇 [.github](https://github.com/Satom-IT-Learning-Solutions/.github)
 > Pas de description
 
-![Commits](https://img.shields.io/badge/Commits_7j-13-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.09.12-1976d2?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits_7j-14-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.09.13-1976d2?style=flat-square)
 
-### 🥈 [E2](https://github.com/Satom-IT-Learning-Solutions/E2)
+### 🥈 [OS-ISO](https://github.com/Satom-IT-Learning-Solutions/OS-ISO)
+> Librairie OS
+
+![Language](https://img.shields.io/badge/Langage-Python-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-1-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.09.13-1976d2?style=flat-square)
+
+### 🥉 [E2](https://github.com/Satom-IT-Learning-Solutions/E2)
 > Dépôt de la classe E2 – projets de l'année
 
 ![Language](https://img.shields.io/badge/Langage-Nushell-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-0-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.09.04-1976d2?style=flat-square)
 
-### 🥉 [E5](https://github.com/Satom-IT-Learning-Solutions/E5)
-> Dépôt de la classe E5 – projets de l'année
-
-![Commits](https://img.shields.io/badge/Commits_7j-0-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.08.25-1976d2?style=flat-square)
-
-<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 13/09/2026 à 00:18 UTC</sub>
+<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 13/09/2026 à 12:07 UTC</sub>
 <!-- TOP_REPOS_END -->
 
 ## 🐍 Activité de l'organisation
