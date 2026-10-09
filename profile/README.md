@@ -20,7 +20,7 @@
 ![Members](https://img.shields.io/badge/Membres-100-1565c0?style=for-the-badge&logo=github&logoColor=white)
 ![Stars](https://img.shields.io/badge/Stars-6-ffd700?style=for-the-badge&logoColor=white)
 
-<sub>Stats mises à jour le 08/10/2026 à 12:09 UTC</sub>
+<sub>Stats mises à jour le 09/10/2026 à 00:17 UTC</sub>
 <!-- ORG_STATS_END -->
 
 </div>
@@ -105,19 +105,19 @@ lab: exercice VLAN trunk/access complete
 ### 🥇 [GIT-Archives](https://github.com/Satom-IT-Learning-Solutions/GIT-Archives)
 > Pas de description
 
-![Commits](https://img.shields.io/badge/Commits_7j-100-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.10.05-1976d2?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits_7j-100-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.10.08-1976d2?style=flat-square)
 
 ### 🥈 [.github](https://github.com/Satom-IT-Learning-Solutions/.github)
 > Pas de description
 
-![Commits](https://img.shields.io/badge/Commits_7j-14-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.10.08-1976d2?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits_7j-13-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.10.08-1976d2?style=flat-square)
 
 ### 🥉 [GitNova3](https://github.com/Satom-IT-Learning-Solutions/GitNova3)
 > Pas de description
 
 ![Language](https://img.shields.io/badge/Langage-Java-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-11-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.10.08-1976d2?style=flat-square)
 
-<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 08/10/2026 à 12:09 UTC</sub>
+<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 09/10/2026 à 00:17 UTC</sub>
 <!-- TOP_REPOS_END -->
 
 ## 🐍 Activité de l'organisation
