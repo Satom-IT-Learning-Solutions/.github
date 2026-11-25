@@ -20,7 +20,7 @@
 ![Members](https://img.shields.io/badge/Membres-100-1565c0?style=for-the-badge&logo=github&logoColor=white)
 ![Stars](https://img.shields.io/badge/Stars-8-ffd700?style=for-the-badge&logoColor=white)
 
-<sub>Stats mises à jour le 24/11/2026 à 12:05 UTC</sub>
+<sub>Stats mises à jour le 25/11/2026 à 00:10 UTC</sub>
 <!-- ORG_STATS_END -->
 
 </div>
@@ -107,17 +107,17 @@ lab: exercice VLAN trunk/access complete
 
 ![Language](https://img.shields.io/badge/Langage-Shell-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-44-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.11.24-1976d2?style=flat-square)
 
-### 🥈 [.github](https://github.com/Satom-IT-Learning-Solutions/.github)
+### 🥈 [satom-leman-portail-berk](https://github.com/Satom-IT-Learning-Solutions/satom-leman-portail-berk)
+> TP final DevSecOps - portail Groupe Leman Finance SA (Berk Kaymaz)
+
+![Language](https://img.shields.io/badge/Langage-Shell-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-18-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.11.24-1976d2?style=flat-square)
+
+### 🥉 [.github](https://github.com/Satom-IT-Learning-Solutions/.github)
 > Pas de description
 
-![Commits](https://img.shields.io/badge/Commits_7j-13-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.11.24-1976d2?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits_7j-14-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.11.24-1976d2?style=flat-square)
 
-### 🥉 [satom-leman-portail-fatoumata](https://github.com/Satom-IT-Learning-Solutions/satom-leman-portail-fatoumata)
-> Pas de description
-
-![Language](https://img.shields.io/badge/Langage-Python-0d47a1?style=flat-square) ![Commits](https://img.shields.io/badge/Commits_7j-10-1976d2?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-0-ffd700?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-0-1565c0?style=flat-square) ![Updated](https://img.shields.io/badge/Dernier_push-2026.11.20-1976d2?style=flat-square)
-
-<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 24/11/2026 à 12:05 UTC</sub>
+<sub>Classement basé sur les commits des 7 derniers jours — mis à jour le 25/11/2026 à 00:10 UTC</sub>
 <!-- TOP_REPOS_END -->
 
 ## 🐍 Activité de l'organisation
